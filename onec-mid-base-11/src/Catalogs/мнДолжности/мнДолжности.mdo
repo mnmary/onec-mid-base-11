@@ -7,14 +7,14 @@
     <listType typeId="f9a27a82-aca1-4579-9edc-1398e519a230" valueTypeId="a844627d-7125-453d-8dc9-901dc993be85"/>
     <managerType typeId="a1b86035-ecb3-44f5-9b1d-44bb90046fa5" valueTypeId="9f029097-768a-4fc6-8b89-09e34749a925"/>
   </producedTypes>
-  <name>Должности</name>
+  <name>мнДолжности</name>
   <synonym>
     <key>ru</key>
     <value>Должности</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.Должности.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.Должности.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.мнДолжности.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.мнДолжности.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
